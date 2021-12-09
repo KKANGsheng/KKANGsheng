@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KKANGsheng
-- 👀 I’m interested in Web development, mobile application development & data science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript and Flutter
+- 📫 Reach me through kangsheng0721@gmail.com
 
 <!---
 KKANGsheng/KKANGsheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
