@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KKANGsheng
-- 🌱 I’m currently learning Javascript and Flutter
+- 🌱 I’m currently learning HTML,CSS,PHP,Javascript and Flutter
 - 📫 Reach me through kangsheng0721@gmail.com <br>
 -:muscle: interested in data science,and web development
 
