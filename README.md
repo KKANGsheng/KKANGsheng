@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KKANGsheng
 - 📫 Reach me through kangsheng0721@gmail.com 
-- :fire: interested in data science,and web development,full stack
+- :fire: interested in Web development and backend
 
 <!---
 KKANGsheng/KKANGsheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
